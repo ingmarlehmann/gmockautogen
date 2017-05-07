@@ -1,0 +1,2 @@
+# gmockautogen
+WIP WIP WIP
